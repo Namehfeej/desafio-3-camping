@@ -30,7 +30,7 @@ display: inline-flex;
 }
 
 span {
-    color: brown;
+    color: orange;
     margin-top: 10px;
 }
 
@@ -44,7 +44,7 @@ span {
 }
 
 .nav-options li a {
-    color: brown;
+    color: orange;
 }
 
 .nav-options li {
