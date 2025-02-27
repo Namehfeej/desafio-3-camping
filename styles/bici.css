@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: brown;
+    display: flex;
+    justify-content: center;
+}
+
+.container-bici {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container-bici figure img {
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.container-bici figure figcaption {
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    border-radius: 4px;
+    background-color: brown;
+    color: aliceblue;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+}

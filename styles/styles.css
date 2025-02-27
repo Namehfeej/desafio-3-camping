@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 4px;
+    padding: 4px;
+}
+
+.container-background-image {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+    justify-items: auto;
+
+}
+
+.container-background-image img {
+    background-size: auto;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.container-nav-options {
+display: inline-flex;
+}
+
+span {
+    color: brown;
+    margin-top: 10px;
+}
+
+.nav-options {
+    display: flex;
+    justify-items: left;
+    flex-direction: row;
+    justify-items: left;
+    justify-content: space-between;
+    list-style: none;
+}
+
+.nav-options li a {
+    color: brown;
+}
+
+.nav-options li {
+    padding: 10px;
+    margin-left: 10px;
+    font-weight: 700;
+    color: brown;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    font-size: xx-large;
+    font-weight: 900;
+    color: brown;
+}
+
+h3 {
+    background-color: brown;
+    color: aliceblue;
+}
+
+.link-alquileres a {
+    color: brown;
+}
+
+.news-la-nacion-arg {
+    color: blue;
+}
+
+.news-pagina-12-arg {
+    color: red;
+}
+
+.container-choosing ul li a {
+    color: brown;
+}

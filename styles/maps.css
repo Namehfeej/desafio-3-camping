@@ -1,0 +1,21 @@
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+.container-google-maps {
+    width: 600px;
+    height: 800px;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+}

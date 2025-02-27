@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+.container-contactos {
+    display: inline-flex;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+}

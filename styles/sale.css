@@ -1,0 +1,13 @@
+h1 {
+    text-align: center;
+    color: brown;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+}
